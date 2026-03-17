@@ -1,0 +1,66 @@
+# Translation of Plugins - Ultimate Addons for Elementor - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Ultimate Addons for Elementor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-02 15:06:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Ultimate Addons for Elementor - Stable (latest release)\n"
+
+#: admin/class-hfe-admin.php:661
+msgid "Type of Template"
+msgstr "Tipo de modelo"
+
+#: admin/class-hfe-admin.php:667
+msgid "Before Footer"
+msgstr "Antes do rodapé"
+
+#: admin/class-hfe-admin.php:669
+msgid "Custom Block"
+msgstr "Bloco personalizado"
+
+#: admin/class-hfe-admin.php:677 admin/class-hfe-admin.php:927
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/class-hfe-admin.php:678
+msgid "Copy this shortcode and paste it into your post, page, or text widget content."
+msgstr "Copie este shortcode e cole no conteúdo do seu post, página ou widget de texto."
+
+#: admin/class-hfe-admin.php:668
+msgid "Footer"
+msgstr "Rodapé"
+
+#: admin/class-hfe-admin.php:666
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: admin/class-hfe-admin.php:665
+msgid "Select Option"
+msgstr "Selecione a opção"
+
+#: admin/class-hfe-admin.php:692
+msgid "Enabling this option will display this layout on pages using Elementor Canvas Template."
+msgstr "A ativação dessa opção vai exibir esse layout nas páginas usando o modelo de Canvas do Elementor."
+
+#: admin/class-hfe-admin.php:690
+msgid "Enable Layout for Elementor Canvas Template?"
+msgstr "Ativar o layout no modelo Canvas do Elementor?"
+
+#. Translators: Post title, Template Location
+#: admin/class-hfe-admin.php:855
+msgid "Template %1$s is already assigned to the location %2$s"
+msgstr "Modelo %1$s já está atribuído ao local %2$s"
+
+#. Author URI of the plugin
+#: header-footer-elementor.php
+msgid "https://www.brainstormforce.com/"
+msgstr "https://www.brainstormforce.com/"
+
+#: admin/class-hfe-admin.php:535 admin/class-hfe-admin.php:536
+msgid "Add New"
+msgstr "Adicionar novo"
