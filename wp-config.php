@@ -6,6 +6,9 @@ define('DB_HOST', 'db');
 define('DB_CHARSET', 'utf8');
 define('DB_COLLATE', '');
 
+define( 'WP_MEMORY_LIMIT', '512M' );
+define( 'WP_MAX_MEMORY_LIMIT', '1024M' );
+
 define('WP_DEBUG', true); // Ativar modo de depuração
 
 $table_prefix = 'wp_';

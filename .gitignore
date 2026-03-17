@@ -1,22 +1,22 @@
-# WordPress core
+
 /wp-admin/
 /wp-includes/
 
-# Uploads e cache
+
 /wp-content/uploads/
 /wp-content/cache/
 /wp-content/backups/
 /logs/
 
-# Plugins e temas de terceiros
-/wp-content/plugins/*
-/wp-content/themes/*
-
-# Mantendo apenas os seus plugins e tema personalizados
-!/wp-content/plugins/seu-plugin/
-!/wp-content/themes/seu-tema/
-
-# Arquivos de sistema
 .DS_Store
 Thumbs.db
 *.log
+
+/wp-content/plugins/*
+/wp-content/themes/*
+
+
+!/wp-content/plugins/elementor/
+!/wp-content/plugins/elementor-pro/
+!/wp-content/themes/hello-elementor/
+!/wp-content/themes/seu-tema-customizado/
